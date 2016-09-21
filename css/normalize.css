@@ -434,6 +434,9 @@ th {
 .justify{
   text-align: justify;
 }
+.rigth{
+  text-align: right;
+}
 .padding{
   padding: 1em;
 }
@@ -503,6 +506,21 @@ div.avatar {
     background-position: 50%;
     border-radius: 50%;
     background-size: 100% auto;
+}
+/*Contacto*/
+.contact{
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 1em 0;
+  text-align: center;
+  color:#443e32;
+  background: url(../images/redaccion.jpeg) no-repeat center center scroll;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
 /*Footer*/
 footer{
