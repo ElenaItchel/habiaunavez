@@ -1,0 +1,3 @@
+User-agent: *
+Allow://
+Sistemap:http://sitiodondequedólapagina.com/sitemap.xml
